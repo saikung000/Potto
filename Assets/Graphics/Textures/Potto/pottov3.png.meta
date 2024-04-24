@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 561a65607d16474448a91e5693f6f28d
+timeCreated: 1517071323
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pottov3_0
+    21300002: pottov3_1
+    21300004: pottov3_2
+    21300006: pottov3_3
+    21300008: pottov3_4
+    21300010: pottov3_5
+    21300012: pottov3_6
+    21300014: pottov3_7
+    21300016: pottov3_8
+    21300018: pottov3_9
+    21300020: pottov3_10
+    21300022: pottov3_11
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pottov3_0
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2102
+        width: 258
+        height: 305
+      alignment: 9
+      pivot: {x: 0.28336683, y: 0.054090355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_1
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2148
+        width: 257
+        height: 303
+      alignment: 9
+      pivot: {x: 0.7058656, y: 0.053769756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1533
+        width: 230
+        height: 486
+      alignment: 9
+      pivot: {x: 0.67820436, y: 0.14349113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1763
+        width: 554
+        height: 335
+      alignment: 9
+      pivot: {x: 0.9708058, y: 0.4555092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_4
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1583
+        width: 228
+        height: 486
+      alignment: 9
+      pivot: {x: 0.38827246, y: 0.19357087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_5
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1332
+        width: 555
+        height: 332
+      alignment: 9
+      pivot: {x: 0.10809315, y: 0.61214215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 760
+        width: 258
+        height: 524
+      alignment: 9
+      pivot: {x: 0.62911654, y: 0.9188319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_7
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 228
+        width: 199
+        height: 649
+      alignment: 9
+      pivot: {x: 0.32275575, y: 0.8894915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_8
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 269
+        width: 199
+        height: 647
+      alignment: 9
+      pivot: {x: 0.6969387, y: 0.92098194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_9
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 731
+        width: 259
+        height: 525
+      alignment: 9
+      pivot: {x: 0.30329004, y: 0.90683687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 76
+        width: 235
+        height: 219
+      alignment: 9
+      pivot: {x: 0.73347634, y: 0.857906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pottov3_11
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 56
+        width: 234
+        height: 221
+      alignment: 9
+      pivot: {x: 0.2777496, y: 0.84122056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
